@@ -1,0 +1,45 @@
+
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Acme', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+}
+
+.user-input {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-right: 200px;
+  margin-left: 200px;
+}
+
+.submit-btn {
+  display: flex;
+  align-items: center;
+  margin-left: 700px;
+  padding: 300px;
+}
+
+.card-container {
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 30px;
+  font-family: 'Acme', sans-serif;
+}
+
+
+
+
+body {
+  background-image: url("https://images.pexels.com/photos/1092364/pexels-photo-1092364.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
